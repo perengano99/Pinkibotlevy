@@ -1,0 +1,11 @@
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Levy.deps.json
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Levy.runtimeconfig.json
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Levy.runtimeconfig.dev.json
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Levy.dll
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Levy.pdb
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.csprojResolveAssemblyReference.cache
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.csproj.CoreCompileInputs.cache
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.AssemblyInfoInputs.cache
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.AssemblyInfo.cs
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.dll
+C:\Users\peren\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Levy.pdb
